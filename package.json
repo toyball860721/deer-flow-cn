@@ -1,0 +1,23 @@
+{
+  "name": "deer-flow-cn",
+  "version": "2.0.0",
+  "description": "DeerFlow 中文镜像 - 字节跳动的开源 Super Agent Harness",
+  "keywords": [
+    "deer-flow",
+    "super-agent",
+    "chinese",
+    "bytedance",
+    "ai-agents",
+    "deep-research"
+  ],
+  "author": "toyball <toyball860721@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/toyball860721/deer-flow-cn.git"
+  },
+  "bugs": {
+    "url": "https://github.com/toyball860721/deer-flow-cn/issues"
+  },
+  "homepage": "https://github.com/toyball860721/deer-flow-cn#readme"
+}
